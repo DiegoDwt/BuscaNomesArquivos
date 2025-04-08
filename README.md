@@ -4,7 +4,7 @@ Mecanismo de Busca utilizando semáforos em Java
 1 Definição e validação de comandos
 Utilizando como base o arquivo "arquivosNomes.zip” crie um mecanismo
 de busca em arquivos utilizando semáforos que limite a quantidade de uti-
-lizadores em dois, somente duas Threads poder ̃ao ter acesso ao processo de
+lizadores em dois, somente duas Threads poderão ter acesso ao processo de
 busca no arquivo. Você poderá lancar várias Threads para realizar a busca
 por um determinado nome nos arquivos (busca aproximada), porém ao chamar 
 o "serviço” de busca existe uma limitação de duas Threads por vez. A
